@@ -1,0 +1,31 @@
+.legalLinks {
+    margin-top: 0px;
+}
+
+#userImg {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.jumbotron {
+    min-height: 75vh;
+    background-image: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)), url("/img/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr {
+    background-color: #ff0000;
+}
+
+#trending h5{
+    margin-bottom: .5rem;
+}
+#trending h2{
+     text-align: left !important;
+}
+
+iframe{
+    display: block;
+    margin: auto auto;
+}
