@@ -1,5 +1,19 @@
 #story{
-	color: #999900;
-	padding: 3em;
+	color: black;
+	padding: 2em;
+	margin-right: 10em;
+	text-indent: 1em;
+}
 
+.bee{
+	background-color: #f2b015;
+}
+
+#content{
+
+}
+
+img{
+	float: left;
+	width: 20%;
 }
